@@ -31,3 +31,4 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 ![This is an image](https://github.com/kellyd7/Credit_Risk_Analysis/blob/main/Images/Easy%20Ensemble%20AdaBoost%20Classifier.png)
 
 # Summary
+Each model appeared to be sufficient in identifying low risk loans. However, I would recommend using the SMOTE model considering the results.
